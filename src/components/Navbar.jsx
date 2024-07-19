@@ -26,7 +26,7 @@ const Navbar = () => {
         width={222}
         height={54}
         className="p-5"
-          />
+      />
       <nav className="w-full h-12 flex justify-between items-center mt-10 bg-[#E6E6E6]">
         <div className="flex flex-flex gap-3 items-start pl-6 ml-44">
           {links.map((item) => (
